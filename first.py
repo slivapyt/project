@@ -1,1 +1,1 @@
-print("next_try")
+print("lox")
